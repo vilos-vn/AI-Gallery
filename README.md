@@ -35,3 +35,9 @@
 | 33 | Image Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Image-Scraping) |  |
 
  * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/vilos-vn) 
+
+# Many more projects will be uploaded soon!
+
+| S No | Project Name | Domain | Repository |
+| ---- | ------------ | --------------- | ---------- |
+| 01    | 500 AI, Machine Learning, Deep Learning, Computer Vision, NLP Projects with Code | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) |
