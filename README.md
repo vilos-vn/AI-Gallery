@@ -41,3 +41,11 @@
 | S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
 | 01    | 500 AI, Machine Learning, Deep Learning, Computer Vision, NLP Projects with Code | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) |
+
+# Many projects for Cybersecurity
+
+| S No | Project Name | Domain | Repository |
+| ---- | ------------ | --------------- | ---------- |
+| 01    | Real-Time Threat Detection Agent (Identifies potential threats and mitigates attacks)| Cybersecurity | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/NVISOsecurity/cyber-security-llm-agents) |
+| 02    | Vibe Hacking Agent (Autonomous Multi-Agent Based Red Team Testing Service) | Cybersecurity | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/PurpleAILAB/Decepticon) |
+| 03    | Agent Memory Guard (Detects and blocks memory poisoning attacks (OWASP ASI06) in AI agent memory stores) | Cybersecurity | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/OWASP/www-project-agent-memory-guard) |
